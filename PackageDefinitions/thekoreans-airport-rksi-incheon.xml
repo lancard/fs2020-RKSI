@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AssetPackage Version="0.1.0">
+	<ItemSettings>
+		<ContentType>SCENERY</ContentType>
+		<Title>RKSI - Incheon int&apos;l airport</Title>
+		<Manufacturer/>
+		<Creator>Sungho Kim</Creator>
+	</ItemSettings>
+	<Flags>
+		<VisibleInStore>false</VisibleInStore>
+		<CanBeReferenced>false</CanBeReferenced>
+	</Flags>
+	<AssetGroups>
+		<AssetGroup Name="ContentInfo">
+			<Type>ContentInfo</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageDefinitions\thekoreans-airport-rksi-incheon\ContentInfo\</AssetDir>
+			<OutputDir>ContentInfo\thekoreans-airport-rksi-incheon\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="mymateriallibs">
+			<Type>MaterialLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-rksi-incheon\materiallibs\</AssetDir>
+			<OutputDir>MaterialLibs\airport-rksi-incheon\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="mymodellib">
+			<Type>ModelLib</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-rksi-incheon\modellib\</AssetDir>
+			<OutputDir>Scenery\airport-rksi-incheon\modellib\</OutputDir>
+		</AssetGroup>
+		<AssetGroup Name="scenery">
+			<Type>BGL</Type>
+			<Flags>
+				<FSXCompatibility>false</FSXCompatibility>
+			</Flags>
+			<AssetDir>PackageSources\Scenery\airport-rksi-incheon\scenery\</AssetDir>
+			<OutputDir>Scenery\airport-rksi-incheon\scenery\</OutputDir>
+		</AssetGroup>
+	</AssetGroups>
+</AssetPackage>
+

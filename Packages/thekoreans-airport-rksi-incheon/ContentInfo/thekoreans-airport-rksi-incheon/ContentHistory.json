@@ -1,0 +1,10 @@
+{
+  "package-name": "thekoreans-airport-rksi-incheon",
+  "items": [
+    {
+      "type": "Airport",
+      "content": "RKSI",
+      "revision": 1
+    }
+  ]
+}
