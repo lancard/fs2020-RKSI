@@ -1,0 +1,193 @@
+{
+    "asset" : {
+        "extensions" : {
+            "ASOBO_normal_map_convention" : {
+                "tangent_space_convention" : "DirectX"
+            }
+        },
+        "generator" : "Khronos glTF Blender I/O v3.3.36 and Asobo Studio MSFS Blender I/O v1.3.0",
+        "version" : "2.0"
+    },
+    "extensionsUsed" : [
+        "ASOBO_normal_map_convention"
+    ],
+    "scene" : 0,
+    "scenes" : [
+        {
+            "name" : "Scene",
+            "nodes" : [
+                2
+            ]
+        }
+    ],
+    "nodes" : [
+        {
+            "name" : "light00",
+            "rotation" : [
+                0.16384296119213104,
+                0.801589846611023,
+                0.006862584501504898,
+                0.5749453902244568
+            ],
+            "translation" : [
+                4.076245307922363,
+                8.052393913269043,
+                -1.0054539442062378
+            ]
+        },
+        {
+            "mesh" : 0,
+            "name" : "node_1"
+        },
+        {
+            "children" : [
+                0,
+                1
+            ],
+            "name" : "node_0"
+        }
+    ],
+    "materials" : [
+        {
+            "doubleSided" : true,
+            "name" : "Material.009",
+            "pbrMetallicRoughness" : {
+                "baseColorTexture" : {
+                    "index" : 0
+                },
+                "metallicFactor" : 0,
+                "roughnessFactor" : 0.5
+            }
+        }
+    ],
+    "meshes" : [
+        {
+            "name" : "part000",
+            "primitives" : [
+                {
+                    "attributes" : {
+                        "POSITION" : 0,
+                        "NORMAL" : 1,
+                        "TEXCOORD_0" : 2,
+                        "TEXCOORD_1" : 3,
+                        "COLOR_0" : 4
+                    },
+                    "indices" : 5,
+                    "material" : 0
+                }
+            ]
+        }
+    ],
+    "textures" : [
+        {
+            "sampler" : 0,
+            "source" : 0
+        }
+    ],
+    "images" : [
+        {
+            "mimeType" : "image/png",
+            "name" : "terminal2_tower",
+            "uri" : "terminal2_tower.png"
+        }
+    ],
+    "accessors" : [
+        {
+            "bufferView" : 0,
+            "componentType" : 5126,
+            "count" : 5542,
+            "max" : [
+                55.11811828613281,
+                18.187240600585938,
+                64.7041015625
+            ],
+            "min" : [
+                -51.76877975463867,
+                -1.2049800157546997,
+                -63.5081901550293
+            ],
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 1,
+            "componentType" : 5126,
+            "count" : 5542,
+            "type" : "VEC3"
+        },
+        {
+            "bufferView" : 2,
+            "componentType" : 5126,
+            "count" : 5542,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 3,
+            "componentType" : 5126,
+            "count" : 5542,
+            "type" : "VEC2"
+        },
+        {
+            "bufferView" : 4,
+            "componentType" : 5123,
+            "count" : 5542,
+            "normalized" : true,
+            "type" : "VEC4"
+        },
+        {
+            "bufferView" : 5,
+            "componentType" : 5123,
+            "count" : 16176,
+            "type" : "SCALAR"
+        }
+    ],
+    "bufferViews" : [
+        {
+            "buffer" : 0,
+            "byteLength" : 66504,
+            "byteOffset" : 0,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 66504,
+            "byteOffset" : 66504,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 44336,
+            "byteOffset" : 133008,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 44336,
+            "byteOffset" : 177344,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 44336,
+            "byteOffset" : 221680,
+            "target" : 34962
+        },
+        {
+            "buffer" : 0,
+            "byteLength" : 32352,
+            "byteOffset" : 266016,
+            "target" : 34963
+        }
+    ],
+    "samplers" : [
+        {
+            "magFilter" : 9729,
+            "minFilter" : 9987
+        }
+    ],
+    "buffers" : [
+        {
+            "byteLength" : 298368,
+            "uri" : "terminal2_traffic_center.bin"
+        }
+    ]
+}

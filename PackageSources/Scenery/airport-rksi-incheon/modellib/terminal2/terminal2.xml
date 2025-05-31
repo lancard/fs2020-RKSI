@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="2dbec4e9-8c71-4ac2-7b39-db54f07b07ba" version="1.1">
+    <LODS>
+        <LOD minSize="0" ModelFile="terminal2.gltf"/>
+    </LODS>
+</ModelInfo>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="a0c19488-b4c2-431e-8091-8a33536c9d2c" version="1.1">
+    <LODS>
+        <LOD minSize="0" ModelFile="concourse.gltf"/>
+    </LODS>
+</ModelInfo>

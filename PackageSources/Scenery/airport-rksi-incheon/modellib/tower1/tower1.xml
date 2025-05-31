@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="d5b3654b-acb1-4b36-a812-7beb14048e6c" version="1.1">
+    <LODS>
+        <LOD minSize="0" ModelFile="tower1.gltf"/>
+    </LODS>
+</ModelInfo>

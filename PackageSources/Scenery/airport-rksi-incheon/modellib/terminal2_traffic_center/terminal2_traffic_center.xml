@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModelInfo guid="a2bf060e-00a6-407c-19a6-d3f040c58b3a" version="1.1">
+    <LODS>
+        <LOD minSize="0" ModelFile="terminal2_traffic_center.gltf"/>
+    </LODS>
+</ModelInfo>
