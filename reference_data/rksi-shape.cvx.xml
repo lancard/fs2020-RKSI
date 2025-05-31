@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Vectors>
+  <Vectors>
+    <Vector SectOffset="660">
+      <QMID u="1307" v="298" l="11" />
+      <Attributes>
+        <Attribute guid="{684afc09-9b38-4431-8d76-e825f54a4dff}" friendlyName="IsWater" name="IsWater" type="byte" value="0" />
+        <Attribute guid="{41eff715-c392-4b31-a457-50a504353a90}" friendlyName="VegetationDensity" name="VegDensity" type="uint" value="0" />
+        <Attribute guid="{e82abe17-fb4c-4f67-a28c-ed41969aead6}" friendlyName="VegetationFalloff" name="VegFalloff" type="float" value="0" />
+        <Attribute guid="{e5fa1b20-bb2f-40d5-913b-480c547cc9b8}" />
+        <Attribute guid="{ce85242f-4110-4706-8344-1f3a8ee422be}" friendlyName="Version" name="version" type="string" value="0.3.0" />
+        <Attribute guid="{9e2b4c3e-7d84-453f-9dcc-b6498ff46703}" friendlyName="Layer" name="Layer" type="uint" value="0" />
+        <Attribute guid="{f8a7b13f-bd91-48f8-ac66-6c8601a2f1c6}" friendlyName="IsAirportInternational" name="Intrntionl" type="byte" value="0" />
+        <Attribute guid="{065e9d4d-6984-4d2a-91fd-3c33c4f53b22}" friendlyName="FlattenMode" name="flatten" type="byte" value="1" />
+        <Attribute guid="{6a043f59-e6f2-4117-a2e4-d510e7317c29}" friendlyName="VegetationScale" name="vegetation" type="uint" value="0" />
+        <Attribute guid="{f3c2635d-9f2f-458f-8663-90b3837bed09}" friendlyName="ExcludeOSMBuildings" name="OBuilding" type="byte" value="1" />
+        <Attribute guid="{f78a3074-8ad5-4b8b-92c4-c1c948bb7aa5}" friendlyName="ExcludeMSBuildings" name="MSBuilding" type="byte" value="1" />
+        <Attribute guid="{4c252581-63e9-4c22-8a3d-14b31f3c8157}" friendlyName="BuildingTIN" name="BuildTIN" type="byte" value="0" />
+        <Attribute guid="{5c1a2387-1f07-47df-a569-962cf6258e55}" friendlyName="ExcludeDetectedBuildings" name="DBuilding" type="byte" value="1" />
+        <Attribute guid="{63040596-0b21-48fd-8b5f-a9e84a5b7bc9}" friendlyName="TreeBrightnessFactor" name="Brightness" type="uint" value="127" />
+        <Attribute guid="{972b7bac-f620-4d6e-9724-e70bf8a450dd}" friendlyName="IsWaterExclusion" name="WaterExcl" type="byte" value="0" />
+        <Attribute guid="{0a685eb0-0e01-44fe-b9ef-bfffbc968ade}" friendlyName="LandClassRemap" name="LCRemap" type="byte" value="0" />
+        <Attribute guid="{5548fdb5-2267-4328-8e6f-fd0a45adec8f}" friendlyName="FalloffDistance" name="falloff" type="float" value="200" />
+        <Attribute guid="{1b6a15bb-05fb-4401-a8d1-bb520e84904c}" friendlyName="Texture" name="Guid" type="Guid" value="00000000-0000-0000-0000-000000000000" />
+        <Attribute guid="{18b58cbf-ae02-4a19-8aa9-3809e8e73400}" friendlyName="ExcludeTIN" name="ExcludeTIN" type="byte" value="1" />
+        <Attribute guid="{cd28efd0-d3f0-43b6-9f88-4e4707344a04}" friendlyName="MaterialGUID" name="material" type="Guid" value="00000000-0000-0000-0000-000000000000" />
+        <Attribute guid="{69a63edd-fbe5-4f0d-88e6-6fa01963d613}" friendlyName="ForceDetectedBuilding" name="Detected" type="byte" value="0" />
+        <Attribute guid="{359c73e8-06be-4fb2-abcb-ec942f7761d0}" friendlyName="AirportBounds" name="Uuid" type="Guid" value="" />
+        <Attribute guid="{86a147e9-acf2-4780-9d3c-416373ecb451}" friendlyName="AirportSize" name="AirprtSize" type="byte" value="0" />
+        <Attribute guid="{3f8514f8-faa8-4b94-ab7f-dc2078a4b888}" friendlyName="WaterType" name="WaterType" type="uint" value="5" />
+      </Attributes>
+      <Shapes>
+        <Shape DrawType="Polygon">
+          <Points />
+        </Shape>
+      </Shapes>
+    </Vector>
+  </Vectors>
+  <Vectors>
+    <Vector SectOffset="660">
+      <QMID u="1307" v="299" l="11" />
+      <Attributes>
+        <Attribute guid="{684afc09-9b38-4431-8d76-e825f54a4dff}" friendlyName="IsWater" name="IsWater" type="byte" value="0" />
+        <Attribute guid="{41eff715-c392-4b31-a457-50a504353a90}" friendlyName="VegetationDensity" name="VegDensity" type="uint" value="0" />
+        <Attribute guid="{e82abe17-fb4c-4f67-a28c-ed41969aead6}" friendlyName="VegetationFalloff" name="VegFalloff" type="float" value="0" />
+        <Attribute guid="{e5fa1b20-bb2f-40d5-913b-480c547cc9b8}" />
+        <Attribute guid="{ce85242f-4110-4706-8344-1f3a8ee422be}" friendlyName="Version" name="version" type="string" value="0.3.0" />
+        <Attribute guid="{9e2b4c3e-7d84-453f-9dcc-b6498ff46703}" friendlyName="Layer" name="Layer" type="uint" value="0" />
+        <Attribute guid="{f8a7b13f-bd91-48f8-ac66-6c8601a2f1c6}" friendlyName="IsAirportInternational" name="Intrntionl" type="byte" value="0" />
+        <Attribute guid="{065e9d4d-6984-4d2a-91fd-3c33c4f53b22}" friendlyName="FlattenMode" name="flatten" type="byte" value="1" />
+        <Attribute guid="{6a043f59-e6f2-4117-a2e4-d510e7317c29}" friendlyName="VegetationScale" name="vegetation" type="uint" value="0" />
+        <Attribute guid="{f3c2635d-9f2f-458f-8663-90b3837bed09}" friendlyName="ExcludeOSMBuildings" name="OBuilding" type="byte" value="1" />
+        <Attribute guid="{f78a3074-8ad5-4b8b-92c4-c1c948bb7aa5}" friendlyName="ExcludeMSBuildings" name="MSBuilding" type="byte" value="1" />
+        <Attribute guid="{4c252581-63e9-4c22-8a3d-14b31f3c8157}" friendlyName="BuildingTIN" name="BuildTIN" type="byte" value="0" />
+        <Attribute guid="{5c1a2387-1f07-47df-a569-962cf6258e55}" friendlyName="ExcludeDetectedBuildings" name="DBuilding" type="byte" value="1" />
+        <Attribute guid="{63040596-0b21-48fd-8b5f-a9e84a5b7bc9}" friendlyName="TreeBrightnessFactor" name="Brightness" type="uint" value="127" />
+        <Attribute guid="{972b7bac-f620-4d6e-9724-e70bf8a450dd}" friendlyName="IsWaterExclusion" name="WaterExcl" type="byte" value="0" />
+        <Attribute guid="{0a685eb0-0e01-44fe-b9ef-bfffbc968ade}" friendlyName="LandClassRemap" name="LCRemap" type="byte" value="0" />
+        <Attribute guid="{5548fdb5-2267-4328-8e6f-fd0a45adec8f}" friendlyName="FalloffDistance" name="falloff" type="float" value="200" />
+        <Attribute guid="{1b6a15bb-05fb-4401-a8d1-bb520e84904c}" friendlyName="Texture" name="Guid" type="Guid" value="00000000-0000-0000-0000-000000000000" />
+        <Attribute guid="{18b58cbf-ae02-4a19-8aa9-3809e8e73400}" friendlyName="ExcludeTIN" name="ExcludeTIN" type="byte" value="1" />
+        <Attribute guid="{cd28efd0-d3f0-43b6-9f88-4e4707344a04}" friendlyName="MaterialGUID" name="material" type="Guid" value="00000000-0000-0000-0000-000000000000" />
+        <Attribute guid="{69a63edd-fbe5-4f0d-88e6-6fa01963d613}" friendlyName="ForceDetectedBuilding" name="Detected" type="byte" value="0" />
+        <Attribute guid="{359c73e8-06be-4fb2-abcb-ec942f7761d0}" friendlyName="AirportBounds" name="Uuid" type="Guid" value="" />
+        <Attribute guid="{86a147e9-acf2-4780-9d3c-416373ecb451}" friendlyName="AirportSize" name="AirprtSize" type="byte" value="0" />
+        <Attribute guid="{3f8514f8-faa8-4b94-ab7f-dc2078a4b888}" friendlyName="WaterType" name="WaterType" type="uint" value="5" />
+      </Attributes>
+      <Shapes>
+        <Shape DrawType="Polygon">
+          <Points>
+            <Point Longitude="126.43557071685791" Latitude="37.44140625" Altitude="7.0M" />
+            <Point Longitude="126.4430022239685" Latitude="37.433016300201416" Altitude="7.0M" />
+            <Point Longitude="126.44489765167236" Latitude="37.432796359062195" Altitude="7.0M" />
+            <Point Longitude="126.4496898651123" Latitude="37.435306906700134" Altitude="7.0M" />
+            <Point Longitude="126.44657850265503" Latitude="37.43867576122284" Altitude="7.0M" />
+            <Point Longitude="126.45004749298096" Latitude="37.44061768054962" Altitude="7.0M" />
+            <Point Longitude="126.44977569580078" Latitude="37.44140625" Altitude="7.0M" />
+            <Point Longitude="126.43557071685791" Latitude="37.44140625" Altitude="7.0M" />
+          </Points>
+        </Shape>
+      </Shapes>
+    </Vector>
+  </Vectors>
+</Vectors>
